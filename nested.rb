@@ -82,7 +82,7 @@ def adding_matz
         }
      }
 programmer_hash({:name => "Josh"})
-programmer_hash
+programmer_hash[:name] = "Josh"
     
 end
 

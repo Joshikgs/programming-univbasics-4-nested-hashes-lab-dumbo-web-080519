@@ -81,7 +81,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
+programmer_hash({:name => "Josh"})
+programmer_hash
     
 end
 
